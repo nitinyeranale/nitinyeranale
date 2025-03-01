@@ -1,5 +1,5 @@
 <h1> 🌟 Hi I'm Nitin Yeranale  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=30&center=true&vCenter=true&width=300&height=100&lines=Data+Analyst...;Software+Developer...;Power+BI+Developer...;Data+Science...;Active+Learner...;Loves+to+learn+new+stuff..">
