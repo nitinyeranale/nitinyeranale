@@ -1,6 +1,6 @@
 <h1> 🌟 Hi Welcome to my GitHub !! I'm Nitin Yeranale  
 <h3> A Passionate Data Analyst and Python Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
 📚 MCA graduate from Sanjay Ghodawat University <br>
 👨‍💻--- Proven ability in analyzing large datasets, debugging SQL queries and transforming data using ETL tools.<br>
   --- Proficient in creating compelling, interactive dashboards using Power BI, enhancing data accessibility and understanding.<br>
